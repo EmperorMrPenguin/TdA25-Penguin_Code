@@ -33,8 +33,9 @@ node-gyp/
 .env
 .env.test
 
-# Package lock files (uncomment if you want to ignore them)
-# package-lock.json
-# yarn.lock
+#(uncomment if you want to ignore them)
+#Package lock files
+package-lock.json
+#yarn.lock
 
 data/
